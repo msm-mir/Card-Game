@@ -29,9 +29,7 @@ The game is based on an object-oriented programming (OOP) using classes such as 
 
 ## 🛠️ How to Run
 
-1. Open the project in your preferred C++ IDE.
-2. Make sure the compiler is set to support C++17 or later.
-3. Build and run the project.
+Make sure the compiler is set to support C++17 or later.
 
 ---
 
