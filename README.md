@@ -1,4 +1,4 @@
-# 🃏 Kastel Game
+# 🃏 Castle Game
 
 This project is a card game named **Castle** implemented in **C++**, as part of an Advanced Programming course.
 
