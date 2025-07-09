@@ -33,11 +33,5 @@ Make sure the compiler is set to support C++17 or later.
 
 ---
 
-## 📌 Note
-
-- Object-oriented principles and proper class design are applied throughout the code.
-
----
-
 ## 👨‍💻 Author
 - Developed as part of a C++ Advanced Programming course mini project
