@@ -33,5 +33,6 @@ Make sure the compiler is set to support C++17 or later.
 
 ---
 
-## 👨‍💻 Author
-- Developed as part of a C++ Advanced Programming course mini project
+## 👩🏻‍💻 Author
+
+Developed as part of a C++ Advanced Programming course mini project
