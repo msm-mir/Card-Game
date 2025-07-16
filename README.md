@@ -27,7 +27,7 @@ The game is based on an object-oriented programming (OOP) using classes such as 
 
 ---
 
-## 🛠️ How to Run
+## 🚀 How to Run
 
 Make sure the compiler is set to support C++17 or later.
 
