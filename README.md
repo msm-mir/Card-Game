@@ -24,15 +24,3 @@ The game is based on an object-oriented programming (OOP) using classes such as 
 ├── Player.h / .cpp
 └── README.md
 ```
-
----
-
-## 🚀 How to Run
-
-Make sure the compiler is set to support C++17 or later.
-
----
-
-## 👩🏻‍💻 Author
-
-Developed as part of a C++ Advanced Programming course mini project
