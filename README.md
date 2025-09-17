@@ -1,8 +1,8 @@
-# 🃏 Castle Game
+# Castle Game
 
 This project is a card game named **Castle** implemented in **C++**, as part of an Advanced Programming course.
 
-## 📋 Description
+## Description
 
 The game is based on an object-oriented programming (OOP) using classes such as card and player. Each player receives random cards and earns points based on the type of cards they hold.
 
@@ -13,7 +13,7 @@ The game is based on an object-oriented programming (OOP) using classes such as 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /CardGameProject
